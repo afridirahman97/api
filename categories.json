@@ -1,0 +1,36 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Model"
+        },
+        {
+            "id": 2,
+            "name": "Actor"
+        },
+        {
+            "id": 3,
+            "name": "Influencer"
+        },
+        {
+            "id": 4,
+            "name": "Content Creator"
+        },
+        {
+            "id": 5,
+            "name": "Celebrity"
+        },
+        {
+            "id": 6,
+            "name": "Entertainer"
+        },
+        {
+            "id": 7,
+            "name": "Makeup Artist"
+        },
+        {
+            "id": 8,
+            "name": "Showman"
+        }
+    ]
+}
